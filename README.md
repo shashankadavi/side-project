@@ -13,3 +13,15 @@
 
 ## AppStudio
 1. Install appstudio from http://www.esri.com/landing-pages/appstudio
+
+## Node Tutorials
+1.http://node.university/courses/category/classic?utm_source=Node.University&utm_campaign=01d2cf85f5-AUTOMATION_Node_University_Welcome_1&utm_medium=email&utm_term=0_fa2a76af0b-01d2cf85f5-107701341
+
+Complete these in the order to get a basic background to get started:
+Node, npm and MongoDB Foundations
+You Don't Know Node
+Express Foundation
+
+2.https://www.codeschool.com/courses/real-time-web-with-node-js
+
+Level 1 is free. Should be sufficent for an intro
