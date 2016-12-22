@@ -9,8 +9,8 @@
 5. Run $npm init 
 6. Install Express Framework which is used as Middleware 
   $npm install express --save
-7. Install MongoDb which is the DB system - https://docs.mongodb.com/v3.0/tutorial/install-mongodb-on-os-x/ 
-8. For front-end Framework refer https://expressjs.com/en/starter/installing.html
+7. Install PostgreSQL run $brew install postgresql 
+8. React Framework for front end run $npm i --save react
 
 ## Node Tutorials
 1.http://node.university/courses/category/classic?utm_source=Node.University&utm_campaign=01d2cf85f5-AUTOMATION_Node_University_Welcome_1&utm_medium=email&utm_term=0_fa2a76af0b-01d2cf85f5-107701341
